@@ -1,0 +1,2 @@
+"""Encrypted personal notebook domain."""
+
